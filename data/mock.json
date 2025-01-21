@@ -1,0 +1,12 @@
+{
+  "guitars": [
+    { "id": 1, "model": "Stratocaster", "brand": "Fender", "year": 1965, "color": "Sunburst", "price": 3500 },
+    { "id": 2, "model": "Les Paul", "brand": "Gibson", "year": 1959, "color": "Cherry Red", "price": 12000 },
+    { "id": 3, "model": "Telecaster", "brand": "Fender", "year": 2023, "color": "Butterscotch Blonde", "price": 1800 },
+    { "id": 4, "model": "Stratocaster", "brand": "Ibanez", "year": 1997, "color": "Black", "price": 18000 },
+    { "id": 5, "model": "Telecaster", "brand": "LTD", "year": 2014, "color": "Black", "price": 1000 },
+    { "id": 6, "model": "Explorer", "brand": "Gibson", "year": 1990, "color": "Black", "price": 5000 },
+    { "id": 7, "model": "Flying V", "brand": "Jackson", "year": 2020, "color": "White", "price": 3500 },
+    { "id": 8, "model": "Les Paul", "brand": "Solar", "year": 2023, "color": "Red", "price": 1300 }
+  ]
+}
